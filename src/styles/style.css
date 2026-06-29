@@ -1,9 +1,6 @@
 @import 'blocks/stars.css';
 
-.page {
-  margin: 0;
-}
-
-.main {
+.html,
+body {
   margin: 0;
 }
